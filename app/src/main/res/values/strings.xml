@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Infofactura</string>
+    <string name="btnCamara">Tomar foto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="app_Camara">Fotografiar factura</string>
+    <string name="titulo_cuit">Si no puede Escanear, por favor ingresar nºcuenta.</string>
+    <string name="btnMenuQr">Ingreso con Scan QR</string>
+    <string name="btnMenuCuit">Ingreso con Nºcuenta</string>
+    <string name="app_menu">Elegir opción para ingreso</string>
+    <string name="app_Qr">Escannear Qr factura</string>
+    <string name="titulo_metodo">Método de pago:</string>
+    <string name="titulo_cuenta">Banco:</string>
+    <string name="titulo_Principal_datos">Informacion factura:</string>
+</resources>
